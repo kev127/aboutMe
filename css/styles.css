@@ -1,0 +1,16 @@
+title{
+  color: Black
+  font-style: times new roman
+  text-align: center
+}
+h1 {
+  color: Black;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
